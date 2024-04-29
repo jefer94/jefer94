@@ -3,12 +3,6 @@
 
 <h3 align="left">🙋‍♂️ About me</h3>
 
-- 🌱 I’m currently learning **Authentication Using NextAuth.js**
-
-- 💬 Ask me about **Angular, NestJs, Neo4j**
-
-- 📫 How to reach me **jdefreitaspinto@gmail.com**
-
 - 🔭 I’m currently working on **4Geeks**.
 - 🌱 I’m currently learning about **Software Architect**
 - 💬 Ask me about **infrastructure**.
