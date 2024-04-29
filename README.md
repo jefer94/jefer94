@@ -1,5 +1,5 @@
 <h1 align="center">I'm Jeferson</h1>
-<h3 align="center">A guy who likes to be a developer</h3>
+<h3 align="center">A guy who likes to be a developer and science</h3>
 
 <h3 align="left">🙋‍♂️ About me</h3>
 
