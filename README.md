@@ -76,6 +76,20 @@ Coding education platform offering both intensive bootcamps and flexible subscri
 - Git
 - CI/CD
 
+**Message Queueing & Event-Driven Architecture**
+- Redis
+- RabbitMQ
+- QStash
+- Celery
+- BullMQ
+
+**Web Rendering Strategies**
+- Single-Page Application
+- Server-Side Rendering
+- Incremental Static Regeneration
+- Server Islands
+- Edge Rendering
+
 ---
 
 ### 🚀 Projects
