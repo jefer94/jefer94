@@ -1,7 +1,7 @@
 ### 👨‍💻 Experience
 
-**Founder & CEO**  
-*CapySchool* | Oct 2024 – Present | Chile  
+**Senior AI Product Engineer**  
+*CapySchool* | Jul 2025 – Present | Colombia  
 
 **CapySchool** — *Multilingual EdTech platform for language learning and pronunciation practice*.
 
