@@ -31,7 +31,7 @@
 - **Databases** — Turso/LibSQL · PostgreSQL · Redis · BigQuery · Qdrant · Milvus
 - **Frameworks** — Hono · Django · FastAPI · Astro · React · Svelte · Next.js · Tailwind CSS · Shadcn/UI
 
-### 🎓 Education
+## 🎓 Education
 
 **Computer Engineering**  
-Universidad Nacional Experimental Rómulo Gallegos | 2012 – 2017 | Venezuela
+*Rómulo Gallegos National Experimental University (UNERG) | 2012 – 2017 | Venezuela*
